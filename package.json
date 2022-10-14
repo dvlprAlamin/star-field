@@ -1,6 +1,6 @@
 {
   "name": "@dvlpralamin/star-field",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple star field background animation",
   "main": "./dist/bundle.js",
   "repository": {
