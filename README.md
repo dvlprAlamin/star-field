@@ -10,7 +10,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import StarField from "star-field";
+import StarField from "@dvlpralamin/star-field";
 
 const App = () => {
   return (
